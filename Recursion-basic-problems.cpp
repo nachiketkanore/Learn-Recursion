@@ -114,50 +114,7 @@
 
 int main(){
 
-    //(1) Printing 1....n using recursion
-    //      cin>>n;
-    // printUsingRecursion(n);
-    
-    // //(2) Factorial using recursion
-    // cin>>n;
-    // cout<<FactorialUsingRecursion(n) <<endl;
-
-    // //(3) Sum of first n elements using recursion
-    // cin>>n;
-    // cout<< FirstNNaturalSum(n) <<endl;
-
-    // //(4) Sum of digits using recursion
-    // cin>>n;
-    // cout<<SumOfDigits(n)<<endl;
-
-    // //(5) Printing an array using recursion
-    // int sz; cin>>sz;
-    // int a[sz] ; for(int x=0;x<sz;x++) cin>>a[x];
-    // PrintArrUsingRecursion(a , sz-1);
-
-    // //(6) a*b  using recursion
-    // // int a,b;
-    // //     cin>>a>>b;
-    // // cout << Product(a,b) <<endl;
-
-    // //(7) Sum of elements using recursion
-    //     cin>>sz;
-    // int aa[sz] ; for(int x=0;x<sz;x++) cin>>aa[x];
-    // cout<< SumUsingRecursion(aa , sz-1) <<endl;
-
-    //(8) Count set bits using recursion
-       cin>>num;
-    cout<< CountSetBits(num) <<endl;
-
-    //(9) Check prime using recursion
-    //     cin>>num;
-    // cout<<( CheckPrimeUsingRecursion(num , 2) ? "YES" : "NO" )<<endl;
-
-    // //(10) Find Min / Max in array using recursion
-    //     cin>>num;
-    // int aaa[num]; for(int x=0;x<num;x++)  cin>>aaa[x];
-    // cout<< " Minimum element = " << FindMinUsingRecursion(aaa,num-1) <<endl;
-    // cout<< " Maximum element = " << FindMaxUsingRecursion(aaa,num-1) <<endl;
+    //Call the function you want to execute
 
     return 0;
 }
